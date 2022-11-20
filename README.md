@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there (Всем привет!)👋
 
 <!--
 **Palex068/Palex068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
