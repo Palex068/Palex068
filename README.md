@@ -1,5 +1,6 @@
 ### Hi there (Всем привет!)👋
 
+[Краткое руководство по Matplotlib](https://github.com/Palex068/PythonData/blob/main/Articles/_Matplotlib/README.MD)
 <!--
 **Palex068/Palex068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
