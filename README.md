@@ -1,6 +1,6 @@
 ### Hi there (Всем привет!)👋
 
-🎓 Look my [stepik](https://stepik.org/users/49497565/profile) achievements
+🎓 Look my [Stepik.org](https://stepik.org/users/49497565/profile) achievements
 
 [Краткое руководство по Matplotlib](https://github.com/Palex068/PythonData/blob/main/Articles/_Matplotlib/README.MD)
 <!--
